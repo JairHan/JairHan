@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Jair 👋
+<img src="assets/header.svg" width="100%" alt="Hi, I’m Jair — Learning AI. Building useful things." />
 
 学习人工智能，用代码解决日常问题。
 
@@ -21,13 +21,22 @@ AI · Python · Web Development · Developer Tools
 
 ## 技术与工具
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<img src="assets/tech-stack.svg" width="100%" alt="Python · PyTorch · TypeScript · JavaScript · React · Vue · Git 动态图标" />
+
+## GitHub 数据
+
+<img src="assets/stats.svg" width="100%" alt="最近一年公开贡献、提交、Pull Requests、Issues 与代码审查统计" />
+<img src="assets/languages.svg" width="100%" alt="公开非 Fork 仓库的代码语言占比" />
+
+<sub>每天自动更新。活动统计采用 GitHub 最近一年贡献口径；语言占比按本人公开非 Fork 仓库的代码字节数计算，不代表熟练程度。</sub>
+
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/snake.svg" />
+  <img src="assets/snake.svg" width="100%" alt="贪吃蛇动画：逐格吃掉过去一年的 GitHub 贡献" />
+</picture>
 
 ## 项目一览
 
@@ -48,3 +57,5 @@ AI · Python · Web Development · Developer Tools
 欢迎交流，也欢迎看看我的 [其他项目 →](https://github.com/JairHan?tab=repositories)
 
 </div>
+
+<sub>Icons by [Devicon](https://github.com/devicons/devicon) · Snake by [Platane/snk](https://github.com/Platane/snk)</sub>
