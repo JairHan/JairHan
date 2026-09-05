@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="280" viewBox="0 0 840 280" role="img" aria-label="Hi, I'm Jair. Learning AI. Building useful things.">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0f172a"/><stop offset="1" stop-color="#123449"/></linearGradient><linearGradient id="accent"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#60a5fa"/></linearGradient><clipPath id="typing"><rect x="44" y="153" width="0" height="32"><animate attributeName="width" values="0;0;540;540;0" keyTimes="0;.08;.5;.85;1" dur="10s" repeatCount="indefinite"/></rect></clipPath></defs>
+<rect width="840" height="280" rx="22" fill="url(#bg)"/>
+<g fill="none" stroke="#5eead4" opacity=".12"><circle cx="760" cy="70" r="100"/><circle cx="760" cy="70" r="140"/><circle cx="760" cy="70" r="180"/></g>
+<text x="44" y="51" fill="#5eead4" font-family="monospace" font-size="12" letter-spacing="3">JAIRHAN / BUILD · LEARN · EXPLORE</text>
+<text x="42" y="128" fill="#f8fafc" font-family="Arial,sans-serif" font-size="56" font-weight="700">Hi, I'm Jair<tspan fill="#5eead4">.</tspan></text>
+<text x="44" y="176" fill="#bae6fd" font-family="monospace" font-size="23" clip-path="url(#typing)">Learning AI. Building useful things.</text>
+<text x="44" y="231" fill="#94a3b8" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">ARTIFICIAL INTELLIGENCE / PYTHON / WEB / OPEN SOURCE</text>
+<rect x="44" y="259" width="752" height="3" rx="1.5" fill="url(#accent)"/>
+</svg>
