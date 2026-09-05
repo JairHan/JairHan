@@ -13,7 +13,7 @@ def typing(name, text, size):
     x, chars, rules = start, [], []
     for i, (char, advance) in enumerate(zip(text, advances)):
         reveal = (i + 1) * .12 / 11 * 100
-        chars.append(f'<tspan x="{x:.2f}" class="c{i}">{escape(char)}</tspan>')
+        chars.append(f'<tspan x="{x:.2f}" class="c{i}" fill="url(#rainbow)">{escape(char)}</tspan>')
         rules.append(f'@keyframes t{i}{{0%,{reveal:.3f}%{{opacity:0}}{reveal+.01:.3f}%,99.9%{{opacity:1}}100%{{opacity:0}}}}.c{i}{{animation:t{i} 11s linear infinite}}')
         x += advance
     stops = ''.join(f'<stop offset="{i/(len(COLORS)-1):.3f}" stop-color="{color}"/>' for i, color in enumerate(COLORS))
@@ -26,5 +26,5 @@ def typing(name, text, size):
 
 
 if __name__ == '__main__':
-    typing('typing.svg', 'Learning AI. Building useful tools.', 14)
-    typing('intro-typing.svg', '学习人工智能，用代码解决日常问题。', 16)
+    typing('typing-rainbow.svg', 'Learning AI. Building useful tools.', 14)
+    typing('intro-rainbow.svg', '学习人工智能，用代码解决日常问题。', 16)

@@ -2,8 +2,8 @@
 
 # Hi, I'm Jair 👋
 
-<img src="assets/typing.svg" width="390" alt="Learning AI. Building useful tools." /><br />
-<img src="assets/intro-typing.svg" alt="学习人工智能，用代码解决日常问题。" />
+<img src="assets/typing-rainbow.svg" width="390" alt="Learning AI. Building useful tools." /><br />
+<img src="assets/intro-rainbow.svg" alt="学习人工智能，用代码解决日常问题。" />
 
 AI · Agent · Python · Web Development · Developer Tools
 
