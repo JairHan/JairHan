@@ -3,7 +3,7 @@
 # Hi, I'm Jair 👋
 
 <img src="assets/typing-rainbow.svg" width="390" alt="Learning AI. Building useful tools." /><br />
-<img src="assets/intro-rainbow.svg" alt="学习人工智能，用代码解决日常问题。" />
+<img src="assets/intro-rainbow.svg" alt="梦想永在凌云意意气风发，代码成就万世基积沙镇海" />
 
 AI · Agent · Python · Web Development · Developer Tools
 
@@ -15,7 +15,7 @@ AI · Agent · Python · Web Development · Developer Tools
 
 ## 关于我
 
-- 🧠 正在学习 **人工智能**，探索模型与实际应用的结合。
+- 🧠  **人工智能**专业硕士在读，探索模型与实际应用的结合。
 - 🛠️ 喜欢编写 **Python 工具、自动化脚本和 Web 应用**。
 - 🌱 在开源项目和日常实践中持续学习，把想法变成能用的小工具。
 - 📫 邮箱：[hanjair9@gmail.com](mailto:hanjair9@gmail.com)
