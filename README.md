@@ -15,7 +15,7 @@ AI · Agent · Python · Web Development · Developer Tools
 
 ## 关于我
 
-- 🧠  **人工智能**专业硕士在读，探索模型与实际应用的结合。
+- 🧠  **人工智能专业**硕士在读，探索模型与实际应用的结合。
 - 🛠️ 喜欢编写 **Python 工具、自动化脚本和 Web 应用**。
 - 🌱 在开源项目和日常实践中持续学习，把想法变成能用的小工具。
 - 📫 邮箱：[hanjair9@gmail.com](mailto:hanjair9@gmail.com)
