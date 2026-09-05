@@ -4,7 +4,7 @@
 
 <img src="assets/typing.svg" width="390" alt="Learning AI. Building useful tools." />
 
-学习人工智能，用代码解决日常问题。
+<img src="assets/intro-typing.svg" alt="学习人工智能，用代码解决日常问题。" />
 
 AI · Python · Web Development · Developer Tools
 
@@ -16,10 +16,10 @@ AI · Python · Web Development · Developer Tools
 
 ## 关于我
 
-- 🧠 正在学习 **人工智能**，探索模型与实际应用的结合。
-- 🛠️ 喜欢编写 **Python 工具、自动化脚本和 Web 应用**。
-- 🌱 在开源项目和日常实践中持续学习，把想法变成能用的小工具。
-- 📫 邮箱：[hanjair9@gmail.com](mailto:hanjair9@gmail.com)
+- 🧠 <img src="assets/about-ai.svg" alt="正在学习人工智能，探索模型与实际应用的结合。" />
+- 🛠️ <img src="assets/about-tools.svg" alt="喜欢编写 Python 工具、自动化脚本和 Web 应用。" />
+- 🌱 <img src="assets/about-learning.svg" alt="在开源项目和日常实践中持续学习，把想法变成能用的小工具。" />
+- 📫 <a href="mailto:hanjair9@gmail.com"><img src="assets/about-email.svg" alt="邮箱：hanjair9@gmail.com" /></a>
 
 ## 技术与工具
 
