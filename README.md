@@ -6,7 +6,7 @@
 
 <img src="assets/intro-typing.svg" alt="学习人工智能，用代码解决日常问题。" />
 
-AI · Python · Web Development · Developer Tools
+AI · Agent · Python · Web Development · Developer Tools
 
 [![GitHub Followers](https://img.shields.io/github/followers/JairHan?style=flat-square&label=Followers&color=2563eb)](https://github.com/JairHan?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/JairHan?style=flat-square&label=Total%20Stars&color=eab308)](https://github.com/JairHan?tab=repositories)
