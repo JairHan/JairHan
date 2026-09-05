@@ -3,7 +3,7 @@
 # Hi, I'm Jair 👋
 
 <img src="assets/typing-rainbow.svg" width="390" alt="Learning AI. Building useful tools." /><br />
-<img src="assets/intro-rainbow.svg" alt="梦想永在凌云意意气风发，代码成就万世基积沙镇海" />
+<img src="assets/motto-rainbow.svg" alt="梦想永在凌云意意气风发，代码成就万世基积沙镇海" />
 
 AI · Agent · Python · Web Development · Developer Tools
 
