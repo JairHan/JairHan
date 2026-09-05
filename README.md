@@ -17,6 +17,7 @@ AI · Python · Web Development · Developer Tools
 - 🧠 正在学习 **人工智能**，探索模型与实际应用的结合。
 - 🛠️ 喜欢编写 **Python 工具、自动化脚本和 Web 应用**。
 - 🌱 在开源项目和日常实践中持续学习，把想法变成能用的小工具。
+- 📫 邮箱：[hanjair9@gmail.com](mailto:hanjair9@gmail.com)
 
 ## 技术与工具
 
@@ -31,7 +32,10 @@ AI · Python · Web Development · Developer Tools
 | 项目 | 简介 | Stars |
 | :--- | :--- | :---: |
 | [Fund](https://github.com/JairHan/Fund) | 基金净值实时估算工具，支持持仓穿透、实时行情和 Docker 部署。 | ![Stars](https://img.shields.io/github/stars/JairHan/Fund?style=flat-square&color=eab308) |
+| [chess-helper-app](https://github.com/JairHan/chess-helper-app) | 中国象棋辅助工具，支持 JJ象棋、天天象棋，提供走法推荐。 | ![Stars](https://img.shields.io/github/stars/JairHan/chess-helper-app?style=flat-square&color=eab308) |
 | [zsh-completions-translate-plugin](https://github.com/JairHan/zsh-completions-translate-plugin) | 为 Zsh 补全参数说明提供中文翻译、缓存与终端对齐显示。 | ![Stars](https://img.shields.io/github/stars/JairHan/zsh-completions-translate-plugin?style=flat-square&color=eab308) |
+| [deliCheck](https://github.com/JairHan/deliCheck) | 得力 e+ GPS 定位签到工具，支持配合青龙面板使用。 | ![Stars](https://img.shields.io/github/stars/JairHan/deliCheck?style=flat-square&color=eab308) |
+| [pvz_ios](https://github.com/JairHan/pvz_ios) | 植物大战僵尸杂交版的 iOS 移植项目。 | ![Stars](https://img.shields.io/github/stars/JairHan/pvz_ios?style=flat-square&color=eab308) |
 
 <sub>指标由 Shields.io 自动获取并缓存更新：Public Repos 包含 Fork 仓库；Total Stars 为账号公开仓库获得的 Stars 总数，并非收藏数。</sub>
 
