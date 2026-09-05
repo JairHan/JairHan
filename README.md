@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Hi, I’m Jair — Learning AI. Building useful things." />
+# Hi, I'm Jair 👋
+
+<img src="assets/typing.svg" width="390" alt="Learning AI. Building useful tools." />
 
 学习人工智能，用代码解决日常问题。
 
@@ -21,22 +23,15 @@ AI · Python · Web Development · Developer Tools
 
 ## 技术与工具
 
-<img src="assets/tech-stack.svg" width="100%" alt="Python · PyTorch · TypeScript · JavaScript · React · Vue · Git 动态图标" />
-
-## GitHub 数据
-
-<img src="assets/stats.svg" width="100%" alt="最近一年公开贡献、提交、Pull Requests、Issues 与代码审查统计" />
-<img src="assets/languages.svg" width="100%" alt="公开非 Fork 仓库的代码语言占比" />
-
-<sub>每天自动更新。活动统计采用 GitHub 最近一年贡献口径；语言占比按本人公开非 Fork 仓库的代码字节数计算，不代表熟练程度。</sub>
-
-## Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/snake.svg" />
-  <img src="assets/snake.svg" width="100%" alt="贪吃蛇动画：逐格吃掉过去一年的 GitHub 贡献" />
-</picture>
+![Python](assets/tech/python.svg)
+![PyTorch](assets/tech/pytorch.svg)
+![TypeScript](assets/tech/typescript.svg)
+![JavaScript](assets/tech/javascript.svg)
+![Vue](assets/tech/vue.svg)
+![React](assets/tech/react.svg)
+![Git](assets/tech/git.svg)
+![macOS](assets/tech/macos.svg)
+![Linux](assets/tech/linux.svg)
 
 ## 项目一览
 
@@ -50,6 +45,19 @@ AI · Python · Web Development · Developer Tools
 
 <sub>指标由 Shields.io 自动获取并缓存更新：Public Repos 包含 Fork 仓库；Total Stars 为账号公开仓库获得的 Stars 总数，并非收藏数。</sub>
 
+## GitHub 统计
+
+<img src="assets/stats.svg" width="410" alt="最近一年公开提交与贡献统计" /> <img src="assets/languages.svg" width="410" alt="公开非 Fork 仓库的语言占比" />
+
+<sub>每天更新。活动统计采用 GitHub 最近一年贡献口径；语言占比按本人公开非 Fork 仓库代码字节数计算。</sub>
+
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg" />
+  <img src="assets/snake.svg" alt="GitHub 贡献贪吃蛇动画" />
+</picture>
+
 ---
 
 <div align="center">
@@ -57,5 +65,3 @@ AI · Python · Web Development · Developer Tools
 欢迎交流，也欢迎看看我的 [其他项目 →](https://github.com/JairHan?tab=repositories)
 
 </div>
-
-<sub>Icons by [Devicon](https://github.com/devicons/devicon) · Snake by [Platane/snk](https://github.com/Platane/snk)</sub>
