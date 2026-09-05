@@ -46,7 +46,7 @@ AI · Agent · Python · Web Development · Developer Tools
 
 ## GitHub 统计
 
-<img src="assets/stats.svg" width="410" alt="最近一年公开提交与贡献统计" /> <img src="assets/languages.svg" width="410" alt="项目主要语言分布：每个公开非 Fork 仓库按主要语言计一次" />
+<img src="assets/stats.svg?v=aligned" width="410" alt="最近一年公开提交与贡献统计" /> <img src="assets/languages.svg?v=aligned" width="410" alt="项目主要语言分布：每个公开非 Fork 仓库按主要语言计一次" />
 
 <sub>每天更新。活动统计采用 GitHub 最近一年贡献口径；语言分布按本人公开非 Fork 仓库的主要语言统计，每个项目计一次，排除未识别语言的仓库。</sub>
 

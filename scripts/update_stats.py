@@ -31,8 +31,7 @@ def main():
         y = 76 + i * 21
         body += f'<text x="18" y="{y}" class="muted" font-size="12">{label}</text><text x="398" y="{y}" class="value" text-anchor="end">{value:,}</text>'
     stamp = datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
-    body += f'<text x="18" y="186" class="muted" font-size="9">Public activity · Updated {stamp}</text>'
-    (ROOT / 'assets/stats.svg').write_text(card('GitHub Stats', f"{c['startedAt'][:10]} → {c['endedAt'][:10]}", body))
+    stats_body = body
     totals, colors = collections.Counter(), {}
     cursor = None
     while True:
@@ -50,6 +49,8 @@ def main():
     assert total > 0, 'No language data'
     top = sorted(totals.items(), key=lambda item: (-item[1], item[0]))
     height = max(200, 130 + ((len(top) + 1) // 2) * 25)
+    stats_body += f'<text x="18" y="{height-14}" class="muted" font-size="9">Public activity · Updated {stamp}</text>'
+    (ROOT / 'assets/stats.svg').write_text(card('GitHub Stats', f"{c['startedAt'][:10]} → {c['endedAt'][:10]}", stats_body, height))
     body, x = '', 18
     for name, value in top:
         width = 384 * value / total
