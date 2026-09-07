@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="262" height="28" viewBox="0 0 262 28" role="img" aria-label="纵然岁月尘埃,总有繁华为你盛开">
-<title>纵然岁月尘埃,总有繁华为你盛开</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="262" height="28" viewBox="0 0 262 28" role="img" aria-label="纵然岁月尘埃,总有繁花为你盛开">
+<title>纵然岁月尘埃,总有繁花为你盛开</title>
 <defs>
   <linearGradient id="rainbow" gradientUnits="userSpaceOnUse" x1="11.00" y1="0" x2="251.00" y2="0">
     <stop offset="0.000" stop-color="#d73a49"/>
@@ -41,7 +41,7 @@ text{fill:url(#rainbow);font-family:monospace,"Noto Sans CJK SC","Microsoft YaHe
   <tspan x="123.00" class="c7" fill="url(#rainbow)">总</tspan>
   <tspan x="139.00" class="c8" fill="url(#rainbow)">有</tspan>
   <tspan x="155.00" class="c9" fill="url(#rainbow)">繁</tspan>
-  <tspan x="171.00" class="c10" fill="url(#rainbow)">华</tspan>
+  <tspan x="171.00" class="c10" fill="url(#rainbow)">花</tspan>
   <tspan x="187.00" class="c11" fill="url(#rainbow)">为</tspan>
   <tspan x="203.00" class="c12" fill="url(#rainbow)">你</tspan>
   <tspan x="219.00" class="c13" fill="url(#rainbow)">盛</tspan>
