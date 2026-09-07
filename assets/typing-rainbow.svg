@@ -14,36 +14,62 @@
 </defs>
 
 <style>
-text{
-  fill:url(#rainbow);
-  font-family:monospace,"Noto Sans CJK SC","Microsoft YaHei",sans-serif;
-  font-size:14px
+text {
+  fill: url(#rainbow);
+  font-family: monospace, "Noto Sans CJK SC", "Microsoft YaHei", sans-serif;
+  font-size: 14px;
 }
 
-@keyframes type {
-  0% { opacity:0 }
-  100% { opacity:1 }
+@keyframes typing {
+  0%,
+  5% {
+    opacity: 0;
+  }
+
+  5.1%,
+  85% {
+    opacity: 1;
+  }
+
+  95%,
+  100% {
+    opacity: 0;
+  }
 }
 
-tspan{
-  opacity:0;
-  animation:type .01s linear forwards;
+tspan {
+  opacity: 0;
+  animation: typing 6s linear infinite;
 }
 
-.c0{animation-delay:.1s}.c1{animation-delay:.2s}
-.c2{animation-delay:.3s}.c3{animation-delay:.4s}
-.c4{animation-delay:.5s}.c5{animation-delay:.6s}
-.c6{animation-delay:.7s}.c7{animation-delay:.8s}
-.c8{animation-delay:.9s}.c9{animation-delay:1.0s}
-.c10{animation-delay:1.1s}.c11{animation-delay:1.2s}
-.c12{animation-delay:1.3s}.c13{animation-delay:1.4s}
-.c14{animation-delay:1.5s}.c15{animation-delay:1.6s}
-.c16{animation-delay:1.7s}.c17{animation-delay:1.8s}
-.c18{animation-delay:1.9s}.c19{animation-delay:2.0s}
-.c20{animation-delay:2.1s}.c21{animation-delay:2.2s}
+.c0  { animation-delay: 0.0s; }
+.c1  { animation-delay: 0.1s; }
+.c2  { animation-delay: 0.2s; }
+.c3  { animation-delay: 0.3s; }
+.c4  { animation-delay: 0.4s; }
+.c5  { animation-delay: 0.5s; }
+.c6  { animation-delay: 0.6s; }
+.c7  { animation-delay: 0.7s; }
+.c8  { animation-delay: 0.8s; }
+.c9  { animation-delay: 0.9s; }
+.c10 { animation-delay: 1.0s; }
+.c11 { animation-delay: 1.1s; }
+.c12 { animation-delay: 1.2s; }
+.c13 { animation-delay: 1.3s; }
+.c14 { animation-delay: 1.4s; }
+.c15 { animation-delay: 1.5s; }
+.c16 { animation-delay: 1.6s; }
+.c17 { animation-delay: 1.7s; }
+.c18 { animation-delay: 1.8s; }
+.c19 { animation-delay: 1.9s; }
+.c20 { animation-delay: 2.0s; }
+.c21 { animation-delay: 2.1s; }
 
-@media(prefers-reduced-motion:reduce){
-  tspan{animation:none;opacity:1}
+@media (prefers-reduced-motion: reduce) {
+  tspan {
+    animation: none;
+    opacity: 1;
+  }
 }
 </style>
 
@@ -71,4 +97,5 @@ tspan{
   <tspan x="270.6" class="c20">"</tspan>
   <tspan x="279.0" class="c21">)</tspan>
 </text>
+
 </svg>
