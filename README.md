@@ -42,6 +42,7 @@ AI · Agent · Python · Web Development · Developer Tools
 | [deliCheck](https://github.com/JairHan/deliCheck) | 得力 e+ GPS 定位签到工具，支持配合青龙面板使用。 | ![Stars](https://img.shields.io/github/stars/JairHan/deliCheck?style=flat-square&color=eab308) |
 | [pvz_ios](https://github.com/JairHan/pvz_ios) | 植物大战僵尸杂交版的 iOS 移植项目。 | ![Stars](https://img.shields.io/github/stars/JairHan/pvz_ios?style=flat-square&color=eab308) |
 | [file-bridge](https://github.com/JairHan/file-bridge) | 在浏览器之间传送文字和文件的轻量工具。 | ![Stars](https://img.shields.io/github/stars/JairHan/file-bridge?style=flat-square&color=eab308) |
+| [2048](https://github.com/JairHan/2048) | 2048 游戏：SwiftUI 原生 macOS 版 | ![Stars](https://img.shields.io/github/stars/JairHan/2048?style=flat-square&color=eab308) |
 
 <sub>指标由 Shields.io 自动获取并缓存更新：Public Repos 包含 Fork 仓库；Total Stars 为账号公开仓库获得的 Stars 总数，并非收藏数。</sub>
 
