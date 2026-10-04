@@ -22,9 +22,9 @@ AI · Agent · Python · Web Development · Developer Tools
 
 ## 技术与工具
 
-![Python](assets/tech/python.svg)
-![Swift](assets/tech/swift.svg)
 ![PyTorch](assets/tech/pytorch.svg)
+![Swift](assets/tech/swift.svg)
+![Python](assets/tech/python.svg)
 ![TypeScript](assets/tech/typescript.svg)
 ![JavaScript](assets/tech/javascript.svg)
 ![Vue](assets/tech/vue.svg)
