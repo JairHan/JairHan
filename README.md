@@ -37,7 +37,7 @@ AI · Agent · Python · Web Development · Developer Tools
 
 | 项目 | 简介 | Stars |
 | :--- | :--- | :---: |
-| [githubStar](https://github.com/JairHan/githubStar) | 原生 macOS GitHub 浏览器，支持热门仓库、每周涨星、动态、搜索与 GitHub Star。 | ![Stars](https://img.shields.io/github/stars/JairHan/githubStar?style=flat-square&color=eab308) |
+| [githubStar](https://github.com/JairHan/githubStar) | 原生 macOS GitHub 浏览器，支持热门仓库、每周涨星、动态、搜索与 GitHub Star。 | ![Private repository](https://img.shields.io/badge/repo-private-64748b?style=flat-square) |
 | [Fund](https://github.com/JairHan/Fund) | 基金净值实时估算工具，支持持仓穿透、实时行情和 Docker 部署。 | ![Stars](https://img.shields.io/github/stars/JairHan/Fund?style=flat-square&color=eab308) |
 | [chess-helper-app](https://github.com/JairHan/chess-helper-app) | 中国象棋辅助工具，支持 JJ象棋、天天象棋，提供走法推荐。 | ![Stars](https://img.shields.io/github/stars/JairHan/chess-helper-app?style=flat-square&color=eab308) |
 | [zsh-completions-translate-plugin](https://github.com/JairHan/zsh-completions-translate-plugin) | 为 Zsh 补全参数说明提供中文翻译、缓存与终端对齐显示。 | ![Stars](https://img.shields.io/github/stars/JairHan/zsh-completions-translate-plugin?style=flat-square&color=eab308) |
